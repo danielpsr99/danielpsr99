@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpsr99&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## ![Contribution](https://activity-graph.herokuapp.com/graph?username=danielpsr99&theme=gotham&hide_border=true&area=true)
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=danielpsr99&theme=gotham&hide_border=true&area=true)
 ![snake gif](https://github.com/danielpsr99/danielpsr99/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
